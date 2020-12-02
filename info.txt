@@ -1,0 +1,3 @@
+username = francisca
+password = UCdTxchYd38uvfNG
+Db connection = mongodb+srv://francisca:<password>@cluster0.3hx9i.mongodb.net/<dbname>?retryWrites=true&w=majority
